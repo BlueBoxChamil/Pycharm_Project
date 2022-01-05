@@ -4,7 +4,7 @@
 |   Name          |     time     |      Code                                                                         |     In Chinese                |
 |   :----:        |     :----:                               |      :----:                                                                       |     :----:                    |
 |   [MusicPlayer](#MusicPlayer)      |     20211230    |      [click](https://github.com/BlueBoxChamil/Pycharm_Project/tree/master/MusicPlayer20211223)       |     音乐播放器                 |
-|   [MakeQrcode](#MakeQrcode)      |     202120104    |      [click](https://github.com/BlueBoxChamil/Pycharm_Project/tree/master/MusicPlayer20211223)       |     二维码生成器                 |
+|   [MakeQrcode](#MakeQrcode)      |     202120104    |      [click](https://github.com/BlueBoxChamil/Pycharm_Project/tree/master/MakeQrcode20220105)       |     二维码生成器                 |
 
 
 ### MusicPlayer<span id="MusicPlayer"> </span>
