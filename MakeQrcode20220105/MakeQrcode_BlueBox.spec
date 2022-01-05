@@ -4,8 +4,8 @@
 block_cipher = None
 
 
-a = Analysis(['E:\\BlueBox\\BlueBox_file\\Pycharm_Project\\20220105\\main.py'],
-             pathex=['E:\\BlueBox\\BlueBox_file\\Pycharm_Project\\20220105\\image\\logo.jpg'],
+a = Analysis(['E:\\BlueBox\\BlueBox_file\\Pycharm_Project\\MakeQrcode20220105\\main.py'],
+             pathex=['E:\\BlueBox\\BlueBox_file\\Pycharm_Project\\MakeQrcode20220105\\image\\logo.jpg'],
              binaries=[],
              datas=[],
              hiddenimports=[],
@@ -40,4 +40,4 @@ exe = EXE(pyz,
           disable_windowed_traceback=False,
           target_arch=None,
           codesign_identity=None,
-          entitlements_file=None , icon='E:\\BlueBox\\BlueBox_file\\Pycharm_Project\\20220105\\image\\logo.ico')
+          entitlements_file=None , icon='E:\\BlueBox\\BlueBox_file\\Pycharm_Project\\MakeQrcode20220105\\image\\logo.ico')

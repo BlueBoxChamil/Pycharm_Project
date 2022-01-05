@@ -124,7 +124,7 @@ class qrcodeGUI(QtWidgets.QWidget):
             w1, h1 = map(lambda x: x // 4, self.qr_img.size)
             # 要粘贴的自定义图片，生成缩略图
             # im = Image.open('./image/logo.jpg')
-            im = Image.open('E:/BlueBox/BlueBox_file/Pycharm_Project/20220105/image/logo.jpg')
+            im = Image.open('E:/BlueBox/BlueBox_file/Pycharm_Project/MakeQrcode20220105/image/logo.jpg')
             imW, imH = im.size
             w1 = w1 if w1 < imW else imW
             h1 = h1 if h1 < imH else imH
