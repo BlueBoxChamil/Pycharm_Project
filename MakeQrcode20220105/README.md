@@ -11,8 +11,7 @@
 * 剩下全是学习 哭泣
 
 打包命令：
-pyinstaller -F -w --icon="E:\BlueBox\BlueBox_file\Pycharm_Project\20211230\image\logo.ico
-" E:\BlueBox\BlueBox_file\Pycharm_Project\20211230\main.py -n MakeQrcode_BlueBox
+pyinstaller -F -w --icon="E:\BlueBox\BlueBox_file\Pycharm_Project\20220105\image\logo.ico" E:\BlueBox\BlueBox_file\Pycharm_Project\20220105\main.py -n MakeQrcode_BlueBox
 
 
 -F：仅仅生成一个文件，不暴露其他信息，启动较慢。
@@ -27,8 +26,7 @@ pyinstaller -F -w --icon="E:\BlueBox\BlueBox_file\Pycharm_Project\20211230\image
 
 #### 1 先使用pyinstaller命令生成spec文件
 ```
-pyinstaller -F -w --icon="E:\BlueBox\BlueBox_file\Pycharm_Project\20211230\image\logo.ico
-" E:\BlueBox\BlueBox_file\Pycharm_Project\20211230\main.py -n MakeQrcode_BlueBox
+pyinstaller -F -w --icon="E:\BlueBox\BlueBox_file\Pycharm_Project\20220105\image\logo.ico" E:\BlueBox\BlueBox_file\Pycharm_Project\20220105\main.py -n MakeQrcode_BlueBox
 ```
 
 #### 2 将生成过程中未使用的py依赖包添加到excludes（MakeQrcode_BlueBox.spec的第15行）
